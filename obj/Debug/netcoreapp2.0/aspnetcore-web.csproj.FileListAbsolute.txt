@@ -1,0 +1,10 @@
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/bin/Debug/netcoreapp2.0/aspnetcore-web.deps.json
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/bin/Debug/netcoreapp2.0/aspnetcore-web.runtimeconfig.json
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/bin/Debug/netcoreapp2.0/aspnetcore-web.runtimeconfig.dev.json
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/bin/Debug/netcoreapp2.0/aspnetcore-web.dll
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/bin/Debug/netcoreapp2.0/aspnetcore-web.pdb
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/obj/Debug/netcoreapp2.0/aspnetcore-web.csproj.CoreCompileInputs.cache
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/obj/Debug/netcoreapp2.0/aspnetcore-web.AssemblyInfoInputs.cache
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/obj/Debug/netcoreapp2.0/aspnetcore-web.AssemblyInfo.cs
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/obj/Debug/netcoreapp2.0/aspnetcore-web.dll
+/home/locvu/Desktop/Working/dot-net-core/aspnetcore-web/obj/Debug/netcoreapp2.0/aspnetcore-web.pdb

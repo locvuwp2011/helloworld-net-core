@@ -31,6 +31,13 @@ namespace aspnetcore_web
                 await next.Invoke();
             });
 
+            app.Use(async (conext, next) =>
+            {
+                await conext.Response.WriteAsync("Run 2222. ");
+                await next.Invoke();
+            });
+
+
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World, from dotnetcore web app!");

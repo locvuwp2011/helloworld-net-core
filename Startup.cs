@@ -25,6 +25,12 @@ namespace aspnetcore_web
                 app.UseDeveloperExceptionPage();
             }
 
+            app.Use(async (conext, next) =>
+            {
+                await conext.Response.WriteAsync("Run before display hello. ");
+                await next.Invoke();
+            });
+
             app.Run(async (context) =>
             {
                 await context.Response.WriteAsync("Hello World, from dotnetcore web app!");

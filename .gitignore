@@ -1,3 +1,5 @@
 bin/
 obj/
-
+.vs/
+Properties/
+aspnetcore-web.csproj.user
